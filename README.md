@@ -1,2 +1,2 @@
-# git_test
-Hello Odin!
+# Recipes Site Showing Three Different Enjoyable Recipes
+This site shows three different recipes I personally enjoy. Each Page has a picture showing what the final dish will look like, a fun description, a list of ingredients, and steps to make the recipe!
