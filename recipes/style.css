@@ -1,0 +1,19 @@
+* {
+    background-color: rgb(216, 214, 214);
+}
+
+.recipe-title{
+    text-align: center;
+}
+
+img{
+    width: 500px;
+    height: auto;
+    align-items: center;
+}
+
+.container{
+    border-color: black;
+    border-style: solid;
+    align-content: flex-start;
+}
